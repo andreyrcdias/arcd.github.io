@@ -4,14 +4,13 @@
 }
 
 body {
-    width: 520px;
+    width: 720px;
     margin: auto;
     position: relative;
     background: #181818;
     color: #b5b5b5;
     font-family: Agave;
     font-size: 24px;
-    line-height: 22px;
     margin-top: 48px;
     margin-bottom: 36px;
 }
@@ -29,6 +28,10 @@ p {
 ul {
     margin-bottom: 48px;
     list-style-type: square;
+}
+
+li {
+    margin-bottom: 6px;
 }
 
 a:link {
@@ -90,3 +93,4 @@ footer {
 small {
     font-size: 20px;
 }
+
