@@ -1,0 +1,92 @@
+@font-face {
+    font-family: Agave;
+    src: url(fonts/Agave.ttf);
+}
+
+body {
+    width: 480px;
+    margin: auto;
+    position: relative;
+    background: #181818;
+    color: #b5b5b5;
+    font-family: Agave;
+    font-size: 20px;
+    line-height: 22px;
+    margin-top: 34px;
+    margin-bottom: 34px;
+}
+
+h1 {
+    color: #b5b5b5;
+    font-size: 48px;
+    margin-bottom: 45px;
+}
+
+p {
+    margin-bottom: 34px;
+}
+
+ul {
+    margin-bottom: 34px;
+    list-style-type: square;
+}
+
+a:link {
+    color: #b5b5b5;
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+    text-decoration-color: #4c6e6c;
+    transition: text-decoration-color 0.2s;
+    text-underline-offset: 2px;
+}
+a:visited {
+    color: #b5b5b5;
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+    text-decoration-color: #4c6e6c;
+    transition: text-decoration-color 0.2s;
+    text-underline-offset: 2px;
+}
+a:hover {
+    color: #b5b5b5;
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+    text-decoration-color: #4c6e6c;
+    transition: text-decoration-color 0.2s;
+    text-underline-offset: 2px;
+}
+a:active {
+    color: #b5b5b5;
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+    text-decoration-color: #4c6e6c;
+    transition: text-decoration-color 0.2s;
+    text-underline-offset: 2px;
+} 
+
+footer {
+    padding: 20px;
+    position: relative;
+}
+
+.line {
+    height: 1px;
+    background-color: #000;
+    margin-bottom: 10px;
+}
+
+.footer-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.reach-out {
+    text-decoration: none;
+    color: inherit;
+    font-size: 18px;
+}
+
+small {
+    font-size: 18px;
+}

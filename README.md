@@ -1,2 +1,2 @@
-# arcd.github.io
+# arcd
 Personal website
