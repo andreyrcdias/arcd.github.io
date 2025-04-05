@@ -1,2 +1,0 @@
-# arcd
-Personal website
